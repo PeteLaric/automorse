@@ -7,9 +7,9 @@
 clear all
 clc
 
-message = 'The quick brown fox jumped over the lazy dog.'
+%message = 'The quick brown fox jumped over the lazy dog.'
 %message = 'And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know I am the Lord when I lay my vengeance upon you.'
-%message = input('message: ', "s");
+message = input('message: ', "s");
 
 sample_rate = 44100
 output_filename = 'morse.wav'
