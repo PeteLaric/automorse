@@ -1,0 +1,2 @@
+message_morse = -      ....      .             --.-      ..-      ..      -.-.      -.-             -...      .-.      ---     .--      -.             ..-.      ---      -..-             .---      ..-      --      .--.      .      -..  ---      ...-      .      .-.             -      ....      .             .-..      .-      --..      -.--             -..      ---      --.      .-.-.-
+message_text = THEQUICKBROWNFOXJUMPEDOVERTHELAZYDOG.
