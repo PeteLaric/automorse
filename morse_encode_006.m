@@ -1,7 +1,7 @@
 % morse_encode.m
 % (c) 2023-03-05 Pete Laric / www.PeteLaric.com
 % A simple MATLAB/Octave script to automatically generate Morse code audio
-% from text.  The tone frequency and data rate are fully adjustible.  The
+% from text.  The tone frequency and data rate are fully adjustable.  The
 % resulting audio can be played, saved to file, or both.  Enjoy!
 
 clear all
